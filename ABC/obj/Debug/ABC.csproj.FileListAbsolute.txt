@@ -1,0 +1,6 @@
+D:\College\4th year\project\ABC - C#\ABC\ABC\bin\Debug\ABC.exe.config
+D:\College\4th year\project\ABC - C#\ABC\ABC\bin\Debug\ABC.exe
+D:\College\4th year\project\ABC - C#\ABC\ABC\bin\Debug\ABC.pdb
+D:\College\4th year\project\ABC - C#\ABC\ABC\obj\Debug\ABC.csprojResolveAssemblyReference.cache
+D:\College\4th year\project\ABC - C#\ABC\ABC\obj\Debug\ABC.exe
+D:\College\4th year\project\ABC - C#\ABC\ABC\obj\Debug\ABC.pdb
